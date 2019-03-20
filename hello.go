@@ -14,5 +14,5 @@ func main() {
 	fmt.Printf(stringutil.Reverse("kskskafjkajaf"))
 	fmt.Println("Helloworld!")
 	fmt.Println("my favorite number is", rand.Intn(10))
-	fmt.Println("换行")
+	fmt.Println("换行")	
 }
